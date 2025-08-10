@@ -4,7 +4,7 @@
 
 This AI-agent utilizes generative AI to automatically generate short videos and post them on social platforms.
 It integrates several AI domains such as script generation, image generation, music generation, speech generation, automatic captioning, special effects, automatic upload and video composition to create engaging and high-quality videos.
-The agent is hosted on [Mindsflow.ai](https://mindsflow.ai/).
+
 
 ## Features
 
@@ -92,6 +92,3 @@ In this output, result is a link pointing to a ZIP file. This ZIP file contains:
 - The video script in text format
 - The captions file in srt format
 
-## Extra
-
-Try out more AI agents at [https://chat.mindsflow.ai/en-US/explore](https://chat.mindsflow.ai/en-US/explore).
